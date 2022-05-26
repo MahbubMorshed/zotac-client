@@ -1,0 +1,56 @@
+[
+    {
+       
+        "name": "ZOTAC GeForce® GTX 1070",
+        "description": "Take on today's most challenging, graphics-intensive games without missing a beat. The GeForce GTX 1070 graphics card delivers the incredible speed and power of NVIDIA Pascal™—the most advanced GPU ever created. This is the ultimate gaming platform.",
+        "image": "https://i.ibb.co/rQQTJ0C/geforcegtx1070.jpg",
+        "quantity": 10,
+        "stock": 30,
+        "price": "250$"
+    },
+    {
+        
+        "name": "GEFORCE RTX 3090 FAMILY",
+        "description": "The GeForce RTX™ 3090 Ti and 3090 are big ferocious GPUs (BFGPUs) with TITAN class performance. Powered by Ampere—NVIDIA’s 2nd gen RTX architecture—they double down on ray tracing and AI performance with enhanced Ray Tracing Cores, Tensor Cores, and new streaming multiprocessors. Plus, they feature a staggering 24 GB of G6X memory, all to deliver the ultimate experience for gamers and creators.",
+        "image": "https://i.ibb.co/sPVCpxz/ZOTAC3090-TI.jpg",
+        "quantity": 10,
+        "stock": 15,
+        "price": "449$"
+    },
+    {
+        
+        "name": "ZOTAC Gaming GeForce RTX 3060 Twin Edge ",
+        "description": "Get Amplified with the ZOTAC GAMING GeForce RTX 30 Series based on the NVIDIA Ampere architecture. Built with enhanced RT Cores and Tensor Cores, new streaming multiprocessors, and high-speed GDDR6 memory, the ZOTAC GAMING GeForce RTX 3060 Twin Edge OC gives rise to amplified gaming with high fidelity.",
+        "image": "https://i.ibb.co/WysMV8T/RTX3060.jpg",
+        "quantity": 5,
+        "stock": 20,
+        "price": "479$"
+    },
+    {
+        
+        "name": "ZOTAC Gaming GeForce GTX 1660 Super",
+        "description": "New turing architecture. 6gb 192-bit gddr6. Super compACt 6.83-inch card, fits 99% of systems. Dual slot, 4k, hdr,VR ready. 3 x DisplayPort 1.4, 1 x HDMI 2.0b. Boost clock 1785 mhz",
+        "image": "https://i.ibb.co/HDZNRk0/1660super-1.jpg",
+        "quantity": 10,
+        "stock": 45,
+        "price": "245$"
+    },
+    {
+        
+        "name": "ZOTAC GAMING GeForce RTX 3050 Twin Edge",
+        "description": "Get Amplified with the ZOTAC GAMING GeForce RTX™ 30 Series based on the NVIDIA Ampere architecture. Built with enhanced RT Cores and Tensor Cores, new streaming multiprocessors, and high-speed GDDR6 memory, the ZOTAC GAMING GeForce RTX 3050 Twin Edge gives rise to amplified gaming.",
+        "image": "https://i.ibb.co/94kSFfx/3050ti.jpg",
+        "quantity": 5,
+        "stock": 20,
+        "price": "395$"
+    },
+    {
+        
+        "name": "ZOTAC GAMING GeForce RTX 3080 Ti Trinity",
+        "description": "Relish ultra performance in the latest game titles and amplify your gaming experience with the ZOTAC GAMING GeForce RTX™ 3080 Ti Trinity. The fine-tuned balance between the cooling, acoustics and aesthetics of the ZOTAC GAMING graphics card delivers the ultra gaming graphics fidelity.",
+        "image": "https://i.ibb.co/kh518mx/3080ti-1.jpg",
+        "quantity": 5,
+        "stock": 25,
+        "price": "429$"
+    }
+]
