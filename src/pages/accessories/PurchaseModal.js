@@ -19,7 +19,7 @@ const PurchaseModal = ({ modal, setModal }) => {
       purchaserName: user.displayName,
     };
 
-    fetch("http://localhost:5000/order", {
+    fetch("https://morning-meadow-49366.herokuapp.com/order", {
       method: "POST",
       headers: {
         "content-type": "application/json",

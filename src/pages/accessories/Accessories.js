@@ -7,7 +7,7 @@ const Accessories = () => {
   const [modal, setModal] = useState(null);
 
   useEffect(() => {
-    fetch("http://localhost:5000/product")
+    fetch("https://morning-meadow-49366.herokuapp.com/product")
       .then((res) => res.json())
       .then((data) => setProducts(data));
   }, []);
