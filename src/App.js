@@ -19,6 +19,7 @@ import MyProfile from "./pages/dashBoard/MyProfile";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Testimonials from "./pages/home/Testimonials";
+import Support from "./pages/home/Support";
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
       <Navbar></Navbar>
       <Routes>
         <Route path="/" element={<Home />}></Route>
+        <Route path="/support" element={<Support />}></Route>
         <Route path="login" element={<Login />}></Route>
         <Route path="signup" element={<Signup />}></Route>
         <Route path="blogs" element={<Blogs />}></Route>
