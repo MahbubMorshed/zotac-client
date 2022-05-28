@@ -18,6 +18,7 @@ import AddReview from "./pages/dashBoard/AddReview";
 import MyProfile from "./pages/dashBoard/MyProfile";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import Testimonials from "./pages/home/Testimonials";
 
 function App() {
   return (
@@ -30,7 +31,7 @@ function App() {
         <Route path="blogs" element={<Blogs />}></Route>
         <Route path="portfolio" element={<Portfolio />}></Route>
         <Route path="accessories" element={<Accessories />}></Route>
-        <Route path="reviews" element={<Reviews />}></Route>
+        <Route path="testimonials" element={<Testimonials />}></Route>
         <Route
           path="purchase"
           element={

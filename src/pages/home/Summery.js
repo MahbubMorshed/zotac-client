@@ -38,7 +38,7 @@ const Summery = () => {
           <div className="card-body">
             <BsBarChartLineFill className="text-4xl text-center mx-auto" />
             <h2 className="text-2xl text-center">Revenue</h2>
-            <p>100 Million+ yearly revenue</p>
+            <p>100+ Million yearly revenue</p>
             <div className="card-actions justify-end">
               <button className="btn btn-sm btn-primary">contact us</button>
             </div>

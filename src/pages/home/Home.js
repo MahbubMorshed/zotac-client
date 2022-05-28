@@ -4,6 +4,7 @@ import Banner from "./Banner";
 import Reviews from "./Reviews";
 import Summery from "./Summery";
 import Support from "./Support";
+import Testimonials from "./Testimonials";
 import WhatsNew from "./WhatsNew";
 
 const Home = () => {
@@ -12,7 +13,7 @@ const Home = () => {
       <Banner />
       <Accessories />
       <Summery />
-      <Reviews />
+      <Testimonials />
       <WhatsNew />
       <Support />
     </div>

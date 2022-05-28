@@ -17,7 +17,7 @@ const Product = ({ product, setModal }) => {
           <p className="text-xl my-2">Unit Price: {price}</p>
           <div className="card-actions justify-end">
             <Link to="/purchase">
-              <button className="btn btn-secondaru">purchase</button>
+              <button className="btn btn-neutral">purchase</button>
             </Link>
 
             {/* <label
