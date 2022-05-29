@@ -87,6 +87,17 @@ const Portfolio = () => {
                 Example
               </a>
             </div>
+            <h3 className="text-3xl mt-5 underline hover:decoration-1">
+              3D ART WORK:
+            </h3>
+            <div className="flex justify-evenly pt-5 gap-4">
+              <a
+                href="https://www.artstation.com/mahbub/"
+                className="fill-current text-2xl hover:text-primary"
+              >
+                Art Station
+              </a>
+            </div>
           </div>
         </div>
       </div>
